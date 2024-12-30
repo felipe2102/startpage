@@ -12,7 +12,7 @@ const default_config = {
     iconColor: palette.maroon,
   },
   disabled: [],
-  fastlink: "https://app.raindrop.io",
+  fastlink: "https://feliperb.dev.br",
   openLastVisitedTab: true,
   tabs: [
     {
